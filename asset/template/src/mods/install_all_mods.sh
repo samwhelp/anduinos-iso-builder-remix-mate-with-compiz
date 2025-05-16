@@ -8,6 +8,8 @@ set -o pipefail         # exit on pipeline error
 set -u                  # treat unset variable as error
 source /root/mods/shared.sh
 source /root/mods/args.sh
+[ -f $SCRIPT_DIR/args-override.sh ] && source $SCRIPT_DIR/args-override.sh
+
 
 #==========================
 # Variables for mods
