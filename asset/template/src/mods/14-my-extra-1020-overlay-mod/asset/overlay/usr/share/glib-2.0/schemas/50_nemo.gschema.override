@@ -11,6 +11,7 @@
 
 [org.nemo.desktop]
 font='Sans 12'
+#font='Monospace 12'
 
 
 [org.nemo.preferences]
@@ -25,6 +26,7 @@ date-format='iso'
 never-queue-file-ops=true
 inherit-folder-viewer=false
 show-full-path-titles=true
+date-font-choice='no-mono'
 
 
 [org.nemo.compact-view]
