@@ -49,6 +49,10 @@
 | [61-gsettings-schema-compile-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/61-gsettings-schema-compile-mod) | [/usr/share/glib-2.0/schemas](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay/usr/share/glib-2.0/schemas) |
 
 
+* [Module / Ignored](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/blob/main/helper/docs/module/module-ignored.md)
+* [Module / Adjusted](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/blob/main/helper/docs/module/module-adjusted.md)
+
+
 
 
 ## Remix
