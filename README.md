@@ -92,17 +92,17 @@ sudo apt-get install git
 ```
 
 
-> clone [anduinos-iso-builder-remix](https://github.com/samwhelp/anduinos-iso-builder-remix)
+> clone [anduinos-iso-builder-remix-mate-with-compiz](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz)
 
 ``` sh
-git clone https://github.com/samwhelp/anduinos-iso-builder-remix.git
+git clone https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz.git
 ```
 
 
-> change dir to `anduinos-iso-builder-remix`
+> change dir to `anduinos-iso-builder-remix-mate-with-compiz`
 
 ``` sh
-cd anduinos-iso-builder-remix
+cd anduinos-iso-builder-remix-mate-with-compiz
 ```
 
 
@@ -118,10 +118,10 @@ make combine-via-git
 ### Build All
 
 
-> change dir to `~/work/anduinos-iso-builder-mate/iso-profile`
+> change dir to `~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-mate/iso-profile
+cd ~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile
 ```
 
 
@@ -144,10 +144,10 @@ make build-fast
 ### Build Default
 
 
-> change dir to `~/work/anduinos-iso-builder-mate/iso-profile/src`
+> change dir to `~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile/src`
 
 ``` sh
-cd ~/work/anduinos-iso-builder-mate/iso-profile/src
+cd ~/work/anduinos-iso-builder-remix-mate-with-compiz/iso-profile/src
 ```
 
 
