@@ -37,10 +37,10 @@
 
 ## Module
 
-| Main Module |
-| ----------- |
-| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) |
-| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) |
+| Main Module | Purpose |
+| ----------- | ------- |
+| [14-my-extra-1010-package-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod) | [install package](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1010-package-mod/asset/package/install) |
+| [14-my-extra-1020-overlay-mod](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod) | [install file](https://github.com/samwhelp/anduinos-iso-builder-remix-mate-with-compiz/tree/main/asset/template/src/mods/14-my-extra-1020-overlay-mod/asset/overlay) |
 
 
 | Infrastructure | Purpose |
