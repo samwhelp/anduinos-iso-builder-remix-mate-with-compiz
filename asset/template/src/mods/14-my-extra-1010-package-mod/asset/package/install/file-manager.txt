@@ -38,7 +38,7 @@ pcmanfm
 ## ## Package / File Manager / nemo
 ##
 
-#nemo
+nemo
 
 
 
@@ -47,12 +47,12 @@ pcmanfm
 ## ## Package / File Manager / caja
 ##
 
-#caja
-#caja-open-terminal
-#caja-actions
-#caja-wallpaper
-#caja-sendto
-#caja-extensions-common
+caja
+caja-open-terminal
+caja-actions
+caja-wallpaper
+caja-sendto
+caja-extensions-common
 
 
 

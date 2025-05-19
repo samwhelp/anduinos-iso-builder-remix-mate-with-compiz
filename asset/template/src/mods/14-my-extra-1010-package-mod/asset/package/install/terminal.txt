@@ -54,7 +54,7 @@ lxterminal
 ## ## Package / Terminal / mate-terminal
 ##
 
-#mate-terminal
+mate-terminal
 
 
 

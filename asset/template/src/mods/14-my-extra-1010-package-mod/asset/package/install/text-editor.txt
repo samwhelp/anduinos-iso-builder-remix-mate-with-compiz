@@ -70,8 +70,8 @@ neovim
 ## ## Package / pluma
 ##
 
-#pluma
-#pluma-plugins
+pluma
+pluma-plugins
 
 
 
